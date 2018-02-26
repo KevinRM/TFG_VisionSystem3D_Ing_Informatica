@@ -1,0 +1,1 @@
+g++ -o detection Detection.cpp Serial.cpp -L. -ledk -lws2_32 -std=c++11

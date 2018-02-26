@@ -1,0 +1,1 @@
+Finalmente no se utilizo Emotiv en el TFG puesto que se decidió utilizar los giroscopios de las gafas VR

@@ -1,0 +1,7 @@
+C:\Users\kevin\Desktop\OpenHMD.NET-master\example\OpenHMDExample\bin\Debug\OpenHMDExample.exe.config
+C:\Users\kevin\Desktop\OpenHMD.NET-master\example\OpenHMDExample\obj\Debug\OpenHMDExample.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Desktop\OpenHMD.NET-master\example\OpenHMDExample\bin\Debug\OpenHMDExample.exe
+C:\Users\kevin\Desktop\OpenHMD.NET-master\example\OpenHMDExample\bin\Debug\OpenHMDExample.pdb
+C:\Users\kevin\Desktop\OpenHMD.NET-master\example\OpenHMDExample\bin\Debug\OpenHMDNet.dll
+C:\Users\kevin\Desktop\OpenHMD.NET-master\example\OpenHMDExample\obj\Debug\OpenHMDExample.exe
+C:\Users\kevin\Desktop\OpenHMD.NET-master\example\OpenHMDExample\obj\Debug\OpenHMDExample.pdb

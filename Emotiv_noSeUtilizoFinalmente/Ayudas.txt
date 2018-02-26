@@ -1,0 +1,2 @@
+- https://github.com/Emotiv/community-sdk
+- Para conectar por el programa http://emotiv.github.io/community-sdk/
